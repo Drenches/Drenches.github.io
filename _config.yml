@@ -62,9 +62,9 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 zhihu:
   username               : "李竞宜"
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "     Jingyi Li(李竞宜)"
+  name             : "Jingyi Li (李竞宜)"
   avatar           : "profile.png"
   bio              : "Master Student at School of Data and Computer Science, Sun Yat-sen University(SYSU)"
   location         : "Guangzhou, China"
