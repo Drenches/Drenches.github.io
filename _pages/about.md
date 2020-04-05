@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my master degree at School of Data and Computer Science, Sun Yat-Sen University(SYSU) supvised by [Xu Chen](https://sites.google.com/view/xcsysu). Prior to joining SYSU, I was a member of [Robot and Communication(R&C) Lab](https://scutrandc.github.io) supvised by Weipeng Guan, South China University of Technology(SCUT) where I obtained my B.Eng. and B.A..
+I am pursuing my master degree in School of Data and Computer Science at Sun Yat-Sen University(SYSU) supvised by [Xu Chen](https://sites.google.com/view/xcsysu). Prior to joining SYSU, I was a member of [R&C Lab](https://scutrandc.github.io) supvised by Weipeng Guan at South China University of Technology where I graduated from with B.Eng. specialized in Automation and B.A. as second degree.
 
-A data-driven personal website
+Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My current research interests mainly on edge computing, blockchain and deep reinforcement learning. My research interests in undergraduate was image communication and machine vision, especially for its application in the field of indoor visible light positioning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Selected Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
